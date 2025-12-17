@@ -227,7 +227,7 @@ The script displays in real-time:
 
 ## 🐛 Issues?
 
-If you encounter a problem not listed above, please [create an issue](https://github.com/your-repo/Snapchat-Download-Memories/issues) with:
+If you encounter a problem not listed above, please [create an issue](https://github.com/BebeSniffeur/Snapchat-Downloader-Memories/issues) with:
 - The complete error message
 - Your Python version (`python --version`)
 - Your operating system
