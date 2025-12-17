@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# IDE
+.idea
+.vscode
+
+.DS_Store
+
+# Virtual environments
+.venv
+
+# HTML file
+html/*
+
+# Memory files
+snapchat_memories/*

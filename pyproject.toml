@@ -1,0 +1,26 @@
+[project]
+name = "snapchat-memories-downloader"
+version = "1.0.0"
+description = "Download all your Snapchat Memories in bulk with overlays and metadata"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31.0",
+    "tqdm>=4.66.0",
+    "Pillow>=10.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = []
+
+[tool.hatch.build.targets.wheel]
+packages = ["snapchat_memories_downloader"]
