@@ -41,7 +41,7 @@ class ZipProcessor:
             os.utime(filepath, (timestamp, timestamp))
 
     @staticmethod
-    def check_already_processed(self, target_dir, date_formatted):
+    def check_already_processed(target_dir, date_formatted):
         """Check if ZIP has already been processed by looking for output files"""
         if not os.path.exists(target_dir):
             return False
