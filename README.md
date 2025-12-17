@@ -13,7 +13,9 @@ Login to Snapchat: [https://accounts.snapchat.com/](https://accounts.snapchat.co
 Go to the export page: [https://accounts.snapchat.com/accounts/downloadmydata](https://accounts.snapchat.com/accounts/downloadmydata)
 
 ### 3. Export configuration
-⚠️ **Important**: Select the following options:
+⚠️ **Important**: To get your memories quickly, click on the **"Request Only Memories"** button (recommended).
+
+If you choose to select data manually, make sure to select:
 - ✅ **Memories** (check this option)
 - ✅ **HTML Format** (not JSON)
 
